@@ -1,0 +1,4 @@
+-r requirements.txt
+-r website/requirements.txt
+pytest>=8,<10
+capstone>=5,<6

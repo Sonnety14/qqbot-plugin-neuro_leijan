@@ -1,0 +1,32 @@
+{
+  "enabled": {
+    "description": "启用乐健报名提醒",
+    "type": "bool",
+    "default": false
+  },
+  "service_url": {
+    "description": "提醒服务内网地址",
+    "type": "string",
+    "default": ""
+  },
+  "token": {
+    "description": "机器人专用令牌；优先使用环境变量 LEJIAN_BOT_TOKEN",
+    "type": "string",
+    "default": ""
+  },
+  "platform_id": {
+    "description": "QQ 平台实例",
+    "type": "string",
+    "default": ""
+  },
+  "interval": {
+    "description": "轮询间隔（秒）",
+    "type": "int",
+    "default": 20
+  },
+  "download_url": {
+    "description": "自己的 HTTPS 乐健下载页完整 URL",
+    "type": "string",
+    "default": ""
+  }
+}

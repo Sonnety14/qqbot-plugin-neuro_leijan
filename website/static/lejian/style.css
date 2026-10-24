@@ -1,0 +1,8 @@
+#lejian { max-width: 820px; margin: auto; }
+#lejian .card { padding: 24px; margin: 18px 0; border: 1px solid var(--card-separator-color,#aaa5); border-radius: 14px; background: var(--card-background); }
+#lejian li { margin: 12px 0; }
+#lejian button { padding: 10px 16px; cursor: pointer; border: 1px solid #8887; border-radius: 8px; background: var(--body-background); color: var(--card-text-color-main); }
+#lejian button:disabled { opacity: .5; cursor: default; }
+#lejian .muted { opacity: .75; font-size: .9em; }
+#lejian [hidden] { display: none !important; }
+#lejian-progress { min-height: 1.5em; }

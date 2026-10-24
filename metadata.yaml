@@ -1,0 +1,6 @@
+name: astrbot_plugin_lejian
+display_name: neuro乐健
+desc: 预约成功确认、活动前提醒及报名开放提醒；网站绑定 QQ 后下载专属 APK
+version: v0.9.0
+author: Sonnety14
+repo: https://github.com/Sonnety14/qqbot-plugin-neuro_leijan
